@@ -2,8 +2,8 @@
 package servo
 
 import (
+	"github.com/bgentry/embd/util"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd/util"
 )
 
 const (

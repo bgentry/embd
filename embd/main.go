@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
+	_ "github.com/bgentry/embd/host/all"
 	"github.com/codegangsta/cli"
-	_ "github.com/kidoman/embd/host/all"
 )
 
 var version = "0.1.0"

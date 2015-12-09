@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/bgentry/embd"
+	"github.com/bgentry/embd/util"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
-	"github.com/kidoman/embd/util"
 )
 
 const (

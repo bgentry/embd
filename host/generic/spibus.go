@@ -7,8 +7,8 @@ import (
 	"syscall"
 	"unsafe"
 
+	"github.com/bgentry/embd"
 	"github.com/golang/glog"
-	"github.com/kidoman/embd"
 )
 
 const (

@@ -2,6 +2,6 @@
 package all
 
 import (
-	_ "github.com/kidoman/embd/host/bbb"
-	_ "github.com/kidoman/embd/host/rpi"
+	_ "github.com/bgentry/embd/host/bbb"
+	_ "github.com/bgentry/embd/host/rpi"
 )
